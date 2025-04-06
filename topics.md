@@ -21,7 +21,9 @@
 - [data-structures](#data-structures)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [django](#django)
 - [education](#education)
+- [embedded](#embedded)
 - [ethereum](#ethereum)
 - [github](#github)
 - [go](#go)
@@ -125,10 +127,18 @@
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## django 
+
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+
 ## education 
 
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+
+## embedded 
+
+- [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources
 
 ## ethereum 
 
@@ -230,6 +240,7 @@
 
 ## python 
 
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [mercedes-benz/odxtools](https://github.com/mercedes-benz/odxtools) - odxtools is a collection of utilities to interact with the diagnostic functionality of automotive electronic control units using python
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -256,6 +267,7 @@
 
 ## security 
 
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
@@ -264,6 +276,7 @@
 
 ## security-tools 
 
+- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [mercedes-benz/sechub](https://github.com/mercedes-benz/sechub) - SecHub provides a central API to test software with different security tools.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
