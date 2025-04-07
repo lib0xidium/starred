@@ -210,6 +210,7 @@
 
 ## others 
 
+- [zero2504/Early-Cryo-Bird-Injections](https://github.com/zero2504/Early-Cryo-Bird-Injections) - Early Bird Cryo Injections – APC-based DLL & Shellcode Injection via Pre-Frozen Job Objects
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [SonarSource/sonar-scanner-java-library](https://github.com/SonarSource/sonar-scanner-java-library) - Common Java library used by many SonarScanners
 - [carlyrichmond/webdevcon-grounding-rag-applications-workshop](https://github.com/carlyrichmond/webdevcon-grounding-rag-applications-workshop) - Grounding RAG Applications with JavaScript, Langchain and Elasticsearch @ Webdevcon NL
