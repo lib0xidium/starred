@@ -19,6 +19,7 @@
 
 ## C++ 
 
+- [zero2504/Early-Cryo-Bird-Injections](https://github.com/zero2504/Early-Cryo-Bird-Injections) - Early Bird Cryo Injections – APC-based DLL & Shellcode Injection via Pre-Frozen Job Objects
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 
 ## CSS 
