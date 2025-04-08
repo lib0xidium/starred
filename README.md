@@ -36,6 +36,7 @@
 
 ## Java 
 
+- [tronprotocol/java-tron](https://github.com/tronprotocol/java-tron) - Java implementation of the Tron whitepaper
 - [SonarSource/sonar-java](https://github.com/SonarSource/sonar-java) - :coffee: SonarSource Static Analyzer for Java Code Quality and Security
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [SonarSource/sonar-scanner-java-library](https://github.com/SonarSource/sonar-scanner-java-library) - Common Java library used by many SonarScanners
