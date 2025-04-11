@@ -20,11 +20,14 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
+- [cpp](#cpp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-structures](#data-structures)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -38,10 +41,12 @@
 - [html](#html)
 - [java](#java)
 - [javascript](#javascript)
+- [json](#json)
 - [kubernetes](#kubernetes)
 - [learning](#learning)
 - [machine-learning](#machine-learning)
 - [monitoring](#monitoring)
+- [mysql](#mysql)
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [others](#others)
@@ -59,6 +64,7 @@
 - [security-tools](#security-tools)
 - [server](#server)
 - [serverless](#serverless)
+- [sql](#sql)
 - [typescript](#typescript)
 - [web](#web)
 - [web-development](#web-development)
@@ -71,6 +77,7 @@
 
 ## api 
 
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [mercedes-benz/sechub](https://github.com/mercedes-benz/sechub) - SecHub provides a central API to test software with different security tools.
 
 ## automation 
@@ -79,10 +86,12 @@
 
 ## awesome 
 
+- [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 
 ## awesome-list 
 
+- [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -132,6 +141,10 @@
 
 - [mercedes-benz/sechub](https://github.com/mercedes-benz/sechub) - SecHub provides a central API to test software with different security tools.
 
+## cpp 
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+
 ## css 
 
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -144,11 +157,19 @@
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 
+## database 
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+
 ## deep-learning 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 
 ## design 
+
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## development 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
@@ -192,6 +213,7 @@
 
 ## hacktoberfest 
 
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
@@ -215,6 +237,10 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
+## json 
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
+
 ## kubernetes 
 
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
@@ -233,6 +259,10 @@
 ## monitoring 
 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager
+
+## mysql 
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 
 ## nodejs 
 
@@ -303,6 +333,7 @@
 
 ## security 
 
+- [StyraInc/awesome-opa](https://github.com/StyraInc/awesome-opa) - A curated list of OPA related tools, frameworks and articles
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -325,6 +356,10 @@
 ## serverless 
 
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
+
+## sql 
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon
 
 ## typescript 
 
