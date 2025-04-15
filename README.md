@@ -73,7 +73,7 @@
 
 ## Python 
 
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [mercedes-benz/odxtools](https://github.com/mercedes-benz/odxtools) - odxtools is a collection of utilities to interact with the diagnostic functionality of automotive electronic control units using python
