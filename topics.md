@@ -51,6 +51,7 @@
 - [learning](#learning)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
+- [macos](#macos)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nodejs](#nodejs)
@@ -312,6 +313,10 @@
 ## machine-learning 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## macos 
+
+- [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 
 ## monitoring 
 
