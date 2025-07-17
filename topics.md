@@ -13,6 +13,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [bash](#bash)
 - [bioinformatics](#bioinformatics)
 - [blockchain](#blockchain)
 - [bugbounty](#bugbounty)
@@ -67,6 +68,7 @@
 - [privacy](#privacy)
 - [programming](#programming)
 - [python](#python)
+- [python3](#python3)
 - [react](#react)
 - [reinforcement-learning](#reinforcement-learning)
 - [robotics](#robotics)
@@ -130,6 +132,10 @@
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov) - Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
+
+## bash 
+
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 
 ## bioinformatics 
 
@@ -347,6 +353,7 @@
 
 ## macos 
 
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 
 ## monitoring 
@@ -369,6 +376,7 @@
 
 ## others 
 
+- [pushsecurity/saas-attacks](https://github.com/pushsecurity/saas-attacks) - Offensive security drives defensive security. We're sharing a collection of SaaS attack techniques to help defenders understand the threats they face. #nolockdown
 - [cider-security-research/top-10-cicd-security-risks](https://github.com/cider-security-research/top-10-cicd-security-risks) - 
 - [Littlehack3r/awesome-gcp-pentesting](https://github.com/Littlehack3r/awesome-gcp-pentesting) - Tools and blogs I use to perform GCP red teams
 - [SonarSource/orchestrator](https://github.com/SonarSource/orchestrator) - Java library for running SonarQube in tests
@@ -419,6 +427,10 @@
 - [mercedes-benz/odxtools](https://github.com/mercedes-benz/odxtools) - odxtools is a collection of utilities to interact with the diagnostic functionality of automotive electronic control units using python
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## python3 
+
+- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 
 ## react 
 
