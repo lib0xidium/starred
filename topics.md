@@ -55,6 +55,7 @@
 - [laravel](#laravel)
 - [learning](#learning)
 - [linux](#linux)
+- [llm](#llm)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [monitoring](#monitoring)
@@ -196,7 +197,7 @@
 ## cybersecurity 
 
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
-- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 
 ## data-structures 
 
@@ -227,7 +228,7 @@
 ## django 
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 
 ## docker 
 
@@ -356,6 +357,10 @@
 
 - [trimstray/the-practical-linux-hardening-guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
 
+## llm 
+
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+
 ## machine-learning 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -438,7 +443,7 @@
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [mercedes-benz/odxtools](https://github.com/mercedes-benz/odxtools) - odxtools is a collection of utilities to interact with the diagnostic functionality of automotive electronic control units using python
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -496,7 +501,7 @@
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [mercedes-benz/sechub](https://github.com/mercedes-benz/sechub) - SecHub provides a central API to test software with different security tools.
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev
