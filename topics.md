@@ -95,7 +95,6 @@
 - [web-development](#web-development)
 - [webapp](#webapp)
 - [windows](#windows)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -630,10 +629,6 @@
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
-
-## zsh 
-
-- [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 
 
 ## License
