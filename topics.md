@@ -81,7 +81,6 @@
 - [pentesting](#pentesting)
 - [php](#php)
 - [privacy](#privacy)
-- [productivity](#productivity)
 - [programming](#programming)
 - [python](#python)
 - [python3](#python3)
@@ -580,10 +579,6 @@
 ## privacy 
 
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-
-## productivity 
-
-- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 
 ## programming 
 
