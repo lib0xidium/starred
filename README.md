@@ -18,6 +18,7 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Shell](#shell)
 - [Solidity](#solidity)
 - [Swift](#swift)
 - [TypeScript](#typescript)
@@ -131,7 +132,6 @@
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [GoogleCloudPlatform/professional-services](https://github.com/GoogleCloudPlatform/professional-services) - Common solutions and tools developed by Google Cloud's Professional Services team. This repository and its contents are not an officially supported Google product.
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
@@ -161,6 +161,10 @@
 
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
+
+## Shell 
+
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
 ## Solidity 
 
