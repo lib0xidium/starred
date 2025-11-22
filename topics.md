@@ -598,6 +598,7 @@
 
 ## python 
 
+- [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
