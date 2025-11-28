@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
@@ -111,6 +112,10 @@
 - [webpack](#webpack)
 - [windows](#windows)
 - [zsh](#zsh)
+
+## agent 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## ai 
 
