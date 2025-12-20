@@ -71,6 +71,7 @@
 - [low-code](#low-code)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [microservices](#microservices)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -524,6 +525,10 @@
 
 - [usnistgov/macos_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
+
+## microservices 
+
+- [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 
 ## mongodb 
 
