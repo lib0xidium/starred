@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [AGS Script](#ags-script)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -25,6 +26,10 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [YAML](#yaml)
+
+## AGS Script 
+
+- [walidshaari/Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) - Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 "Kubernetes Certified Security Specialist" Certification exam.  Please provide feedback or requests by raising issues, or maki
 
 ## C# # 
 
@@ -54,6 +59,11 @@
 
 ## Go 
 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies
+- [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) - Verify provenance from SLSA compliant builders
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use  @vcaesar
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
@@ -88,6 +98,7 @@
 
 ## HTML 
 
+- [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [swisskyrepo/InternalAllTheThings](https://github.com/swisskyrepo/InternalAllTheThings) - Active Directory and Internal Pentest Cheatsheets
 - [18F/guides](https://github.com/18F/guides) - 18F’s guides equip 18F teams, our partners, other practitioners, lawmakers, and the public with tools and practices to improve public services. They affirm experiences, build confidence, and empower e
 
@@ -126,6 +137,10 @@
 
 ## Others 
 
+- [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [4ndersonLin/awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️
 - [decalage2/awesome-security-hardening](https://github.com/decalage2/awesome-security-hardening) - A collection of awesome security hardening guides, tools and other resources
@@ -149,11 +164,11 @@
 
 ## Python 
 
+- [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development Kit (ADK)
 - [Pylons/pyramid](https://github.com/Pylons/pyramid) - Pyramid - A Python web framework
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [coreruleset/coreruleset](https://github.com/coreruleset/coreruleset) - OWASP CRS (Official Repository)
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -186,6 +201,7 @@
 
 ## Rust 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [joaoviictorti/RustRedOps](https://github.com/joaoviictorti/RustRedOps) - RustRedOps is a repository for advanced Red Team techniques and offensive malware, focused on Rust 🦀
@@ -201,6 +217,7 @@
 ## TypeScript 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps you understand your codebase.
 - [j4k0xb/webcrack](https://github.com/j4k0xb/webcrack) - Deobfuscate obfuscator.io, unminify and unpack bundled javascript
