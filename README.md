@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [klawsh/klaw.sh](https://github.com/klawsh/klaw.sh) - kubectl for AI Agents
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
