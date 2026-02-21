@@ -55,6 +55,7 @@
 - [elixir](#elixir)
 - [embedded](#embedded)
 - [ethereum](#ethereum)
+- [flask](#flask)
 - [framework](#framework)
 - [generative-ai](#generative-ai)
 - [git](#git)
@@ -108,6 +109,7 @@
 - [python](#python)
 - [python3](#python3)
 - [rag](#rag)
+- [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reinforcement-learning](#reinforcement-learning)
 - [reverse-engineering](#reverse-engineering)
@@ -466,6 +468,10 @@
 - [Decurity/semgrep-smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) - Semgrep rules for smart contracts based on DeFi exploits
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
 
+## flask 
+
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
+
 ## framework 
 
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -730,6 +736,7 @@
 
 ## monitoring 
 
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [SigmaHQ/sigma](https://github.com/SigmaHQ/sigma) - Main Sigma Rule Repository
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
@@ -763,6 +770,7 @@
 
 ## open-source 
 
+- [SAP/risk-explorer-for-software-supply-chains](https://github.com/SAP/risk-explorer-for-software-supply-chains) - A taxonomy of attacks on software supply chains in the form of an attack tree, based on and linked to numerous real-world incidents and other resources. The taxonomy as well as related safeguards can 
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -784,6 +792,7 @@
 
 ## others 
 
+- [Cyfrin/cyfrin-audit-reports](https://github.com/Cyfrin/cyfrin-audit-reports) - A list of public audit reports conducted by the Cyfrin team
 - [coinbase/cb-mpc](https://github.com/coinbase/cb-mpc) - Coinbase MPC Library
 - [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -842,6 +851,7 @@
 
 ## privacy 
 
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 
 ## productivity 
@@ -861,6 +871,7 @@
 
 ## python 
 
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -892,6 +903,10 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
 
+## raspberry-pi 
+
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
+
 ## react 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -915,6 +930,7 @@
 
 ## rust 
 
+- [Cyfrin/aderyn](https://github.com/Cyfrin/aderyn) - Solidity Static Analyzer that easily integrates into your editor
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -924,6 +940,8 @@
 
 ## security 
 
+- [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
+- [SAP/risk-explorer-for-software-supply-chains](https://github.com/SAP/risk-explorer-for-software-supply-chains) - A taxonomy of attacks on software supply chains in the form of an attack tree, based on and linked to numerous real-world incidents and other resources. The taxonomy as well as related safeguards can 
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
@@ -1007,6 +1025,7 @@
 
 ## solidity 
 
+- [Cyfrin/aderyn](https://github.com/Cyfrin/aderyn) - Solidity Static Analyzer that easily integrates into your editor
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [Decurity/semgrep-smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) - Semgrep rules for smart contracts based on DeFi exploits
 
