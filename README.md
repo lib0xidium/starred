@@ -163,6 +163,8 @@
 
 ## Others 
 
+- [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard
+- [securing/FAFSG](https://github.com/securing/FAFSG) - Financial Applications Features - Security Guidelines (FAFSG) is a set of two FREE checklists created to provide guidelines on the security features which you can implement to make your mobile app mor
 - [artnitolog/awesome-agent-learning](https://github.com/artnitolog/awesome-agent-learning) - Guides, courses & reading lists for learning to build autonomous LLM agents
 - [cncf/curriculum](https://github.com/cncf/curriculum) - 📚Open Source Curriculum for CNCF Certification Courses
 - [yosriady/awesome-api-devtools](https://github.com/yosriady/awesome-api-devtools) - :books: A collection of useful resources for building RESTful HTTP+JSON APIs.
