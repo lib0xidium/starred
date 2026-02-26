@@ -792,6 +792,7 @@
 
 ## others 
 
+- [astral-sh/multiplay](https://github.com/astral-sh/multiplay) - multi-typechecker playground
 - [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard
 - [securing/FAFSG](https://github.com/securing/FAFSG) - Financial Applications Features - Security Guidelines (FAFSG) is a set of two FREE checklists created to provide guidelines on the security features which you can implement to make your mobile app mor
 - [Cyfrin/cyfrin-audit-reports](https://github.com/Cyfrin/cyfrin-audit-reports) - A list of public audit reports conducted by the Cyfrin team
