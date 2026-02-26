@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [astral-sh/multiplay](https://github.com/astral-sh/multiplay) - multi-typechecker playground
 - [SAP/risk-explorer-for-software-supply-chains](https://github.com/SAP/risk-explorer-for-software-supply-chains) - A taxonomy of attacks on software supply chains in the form of an attack tree, based on and linked to numerous real-world incidents and other resources. The taxonomy as well as related safeguards can 
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [cdxgen/cdxgen](https://github.com/cdxgen/cdxgen) - Creates CycloneDX Bill of Materials (BOM) for your projects from source and container images. Supports many languages and package managers. Integrate in your CI/CD pipeline with automatic submission t
