@@ -15,6 +15,7 @@
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Markdown](#markdown)
@@ -64,6 +65,7 @@
 
 ## Go 
 
+- [kubewarden/sbomscanner](https://github.com/kubewarden/sbomscanner) - A SBOM-centric security scanner.
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [kubernetes/enhancements](https://github.com/kubernetes/enhancements) - Enhancements tracking repo for Kubernetes
 - [aquasecurity/tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF
@@ -148,6 +150,10 @@
 - [step-security/github-actions-goat](https://github.com/step-security/github-actions-goat) - GitHub Actions Goat: Deliberately Vulnerable GitHub Actions CI/CD Environment
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
+## Jupyter Notebook 
+
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
+
 ## Lua 
 
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
@@ -166,6 +172,7 @@
 
 ## Others 
 
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [securing/SCSVS](https://github.com/securing/SCSVS) - Smart Contract Security Verification Standard
 - [securing/FAFSG](https://github.com/securing/FAFSG) - Financial Applications Features - Security Guidelines (FAFSG) is a set of two FREE checklists created to provide guidelines on the security features which you can implement to make your mobile app mor
 - [artnitolog/awesome-agent-learning](https://github.com/artnitolog/awesome-agent-learning) - Guides, courses & reading lists for learning to build autonomous LLM agents
@@ -197,6 +204,7 @@
 
 ## Python 
 
+- [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
 - [Cyfrin/cyfrin-audit-reports](https://github.com/Cyfrin/cyfrin-audit-reports) - A list of public audit reports conducted by the Cyfrin team
@@ -241,6 +249,7 @@
 
 ## Rust 
 
+- [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
 - [Cyfrin/aderyn](https://github.com/Cyfrin/aderyn) - Solidity Static Analyzer that easily integrates into your editor
@@ -266,6 +275,7 @@
 
 ## TypeScript 
 
+- [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
