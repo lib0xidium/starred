@@ -72,6 +72,7 @@
 - [http](#http)
 - [https](#https)
 - [information-gathering](#information-gathering)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
@@ -642,6 +643,10 @@
 
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 
+## iot 
+
+- [nccgroup/singularity](https://github.com/nccgroup/singularity) - A DNS rebinding attack framework.
+
 ## java 
 
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
@@ -837,6 +842,7 @@
 
 ## others 
 
+- [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [kubewarden/sbomscanner](https://github.com/kubewarden/sbomscanner) - A SBOM-centric security scanner.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
