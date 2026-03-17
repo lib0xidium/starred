@@ -39,6 +39,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -73,10 +74,12 @@
 - [https](#https)
 - [information-gathering](#information-gathering)
 - [iot](#iot)
+- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [laravel](#laravel)
 - [learning](#learning)
 - [linux](#linux)
@@ -109,12 +112,14 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [programming](#programming)
+- [programming-language](#programming-language)
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [reactjs](#reactjs)
 - [reinforcement-learning](#reinforcement-learning)
 - [reverse-engineering](#reverse-engineering)
 - [robotics](#robotics)
@@ -292,6 +297,10 @@
 
 ## blockchain 
 
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
@@ -358,6 +367,7 @@
 
 ## compiler 
 
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 
 ## computer-science 
@@ -377,6 +387,7 @@
 
 ## cpp 
 
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -384,6 +395,10 @@
 ## crawler 
 
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
+
+## cryptocurrency 
+
+- [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
 
 ## csharp 
 
@@ -487,6 +502,12 @@
 
 ## ethereum 
 
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
+- [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of Solidity security issues
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
@@ -503,6 +524,7 @@
 
 ## framework 
 
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -596,6 +618,7 @@
 
 ## hacktoberfest 
 
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
@@ -647,6 +670,10 @@
 
 - [nccgroup/singularity](https://github.com/nccgroup/singularity) - A DNS rebinding attack framework.
 
+## ipfs 
+
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+
 ## java 
 
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
@@ -660,6 +687,7 @@
 
 ## javascript 
 
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -701,6 +729,10 @@
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+
+## language 
+
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 
 ## laravel 
 
@@ -797,6 +829,7 @@
 
 ## nextjs 
 
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## no-code 
@@ -923,6 +956,10 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## programming-language 
+
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
+
 ## prompt-engineering 
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
@@ -972,6 +1009,10 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## reactjs 
+
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
+
 ## reinforcement-learning 
 
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
@@ -991,6 +1032,7 @@
 
 ## rust 
 
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
@@ -1005,6 +1047,8 @@
 
 ## security 
 
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
@@ -1093,6 +1137,12 @@
 
 ## solidity 
 
+- [ConsenSysDiligence/mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [crytic/slither](https://github.com/crytic/slither) - Static Analyzer for Solidity and Vyper
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
+- [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of Solidity security issues
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
@@ -1135,6 +1185,7 @@
 
 ## testing 
 
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
 
 ## trading 
@@ -1143,6 +1194,7 @@
 
 ## typescript 
 
+- [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [unionlabs/union](https://github.com/unionlabs/union) - The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
