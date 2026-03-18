@@ -176,6 +176,7 @@
 
 ## Others 
 
+- [Hexens/Smart-Contract-Review-Public-Reports](https://github.com/Hexens/Smart-Contract-Review-Public-Reports) - List of the public smart contract audit reports and security reviews performed by Hexens.
 - [smartcontractkit/full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) - Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript
 - [Consensys/ethereum-developer-tools-list](https://github.com/Consensys/ethereum-developer-tools-list) - A guide to available tools and platforms for developing on Ethereum.
 - [ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) - Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini
@@ -277,6 +278,7 @@
 
 ## Solidity 
 
+- [OpenZeppelin/ethernaut](https://github.com/OpenZeppelin/ethernaut) - Web3/Solidity based wargame
 - [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
 - [crytic/not-so-smart-contracts](https://github.com/crytic/not-so-smart-contracts) - Examples of Solidity security issues
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
@@ -288,6 +290,7 @@
 
 ## TypeScript 
 
+- [solana-developers/developer-bootcamp-2024](https://github.com/solana-developers/developer-bootcamp-2024) - 
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
