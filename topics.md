@@ -52,12 +52,14 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [education](#education)
 - [elixir](#elixir)
 - [embedded](#embedded)
 - [ethereum](#ethereum)
+- [finance](#finance)
 - [flask](#flask)
 - [framework](#framework)
 - [generative-ai](#generative-ai)
@@ -154,11 +156,13 @@
 
 ## agent 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
 ## ai 
 
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -492,6 +496,11 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
 
+## distributed-systems 
+
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.
+
 ## django 
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -546,6 +555,10 @@
 - [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) - OpenZeppelin Contracts is a library for secure smart contract development.
 - [Decurity/semgrep-smart-contracts](https://github.com/Decurity/semgrep-smart-contracts) - Semgrep rules for smart contracts based on DeFi exploits
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
+
+## finance 
+
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 
 ## flask 
 
@@ -796,6 +809,8 @@
 
 ## llm 
 
+- [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
@@ -1027,6 +1042,7 @@
 
 ## python 
 
+- [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) - Download market data from Yahoo! Finance's API
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood's bluetooth activity
@@ -1262,6 +1278,7 @@
 
 ## trading 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
 
 ## typescript 
@@ -1323,5 +1340,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [lib0xidium](https://github.com/lib0xidium) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [mpapadopoullos](https://github.com/mpapadopoullos) has waived all copyright and related or neighboring rights to this work.
 
