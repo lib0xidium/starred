@@ -77,6 +77,8 @@
 
 ## Go 
 
+- [crc-org/macadam](https://github.com/crc-org/macadam) - Shared virtualization management library
+- [crc-org/crc](https://github.com/crc-org/crc) - CRC is a tool to help you run containers. It manages local VMs to run a OpenShift 4.x cluster, Microshift or Podman optimized for testing and development purposes
 - [reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci) - diff for Docker and OCI container images
 - [trailofbits/semgrep-rules](https://github.com/trailofbits/semgrep-rules) - Semgrep queries developed by Trail of Bits.
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
