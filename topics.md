@@ -1084,6 +1084,8 @@
 
 ## others 
 
+- [openkaiden/kaiden](https://github.com/openkaiden/kaiden) - 
+- [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [toddward/the-learning-skill](https://github.com/toddward/the-learning-skill) - 
 - [RHEcosystemAppEng/agentic-collections](https://github.com/RHEcosystemAppEng/agentic-collections) - Red Hat Ecosystem Engineering - Agentic Collections
