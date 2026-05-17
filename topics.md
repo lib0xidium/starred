@@ -788,6 +788,7 @@
 
 ## hacktoberfest 
 
+- [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and
 - [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
 - [mitre/caldera](https://github.com/mitre/caldera) - Automated Adversary Emulation Platform
@@ -1236,6 +1237,7 @@
 
 ## prompt-engineering 
 
+- [Repello-AI/whistleblower](https://github.com/Repello-AI/whistleblower) - Whistleblower is a offensive security tool for testing against system prompt leakage and capability discovery of an AI application exposed through API. Built for AI engineers, security researchers and
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
