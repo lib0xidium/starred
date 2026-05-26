@@ -398,6 +398,7 @@
 
 ## bugbounty 
 
+- [appsecco/vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers.
 - [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 
@@ -800,6 +801,7 @@
 
 ## hacking 
 
+- [appsecco/vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers.
 - [apache/caldera](https://github.com/apache/caldera) - Automated Adversary Emulation Platform
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
@@ -1033,6 +1035,7 @@
 
 ## mcp 
 
+- [appsecco/vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [Storybloq/storybloq](https://github.com/Storybloq/storybloq) - Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.
@@ -1142,6 +1145,10 @@
 
 ## others 
 
+- [konflux-ci/integration-service](https://github.com/konflux-ci/integration-service) - Kubernetes controller to control the integration and testing in Konflux
+- [konflux-ci/release-service](https://github.com/konflux-ci/release-service) - Kubernetes controller to manage releases in Stonesoup
+- [openshift/konflux-tasks](https://github.com/openshift/konflux-tasks) - Konflux tasks for triggering a Prowjob from Konflux via Gangway
+- [fullsend-ai/fullsend](https://github.com/fullsend-ai/fullsend) - Vision for fully autonomous agentic engineering
 - [GoogleContainerTools/container-diff](https://github.com/GoogleContainerTools/container-diff) - container-diff: Diff your Docker containers
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [konflux-ci/agent-plugins](https://github.com/konflux-ci/agent-plugins) - Claude Skills for Konflux Usage
@@ -1241,6 +1248,7 @@
 
 ## pentesting 
 
+- [appsecco/vulnerable-mcp-servers-lab](https://github.com/appsecco/vulnerable-mcp-servers-lab) - A collection of servers which are deliberately vulnerable to learn Pentesting MCP Servers.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
