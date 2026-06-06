@@ -773,6 +773,7 @@
 
 ## github 
 
+- [tektoncd/pipelines-as-code](https://github.com/tektoncd/pipelines-as-code) - Pipelines-as-Code for Tekton
 - [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [synacktiv/octoscan](https://github.com/synacktiv/octoscan) - Octoscan is a static vulnerability scanner for GitHub action workflows.
@@ -989,6 +990,7 @@
 
 ## kubernetes 
 
+- [tektoncd/pipelines-as-code](https://github.com/tektoncd/pipelines-as-code) - Pipelines-as-Code for Tekton
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [podman-container-tools/podman](https://github.com/podman-container-tools/podman) - Podman: A tool for managing OCI containers and pods.
 - [notaryproject/notation](https://github.com/notaryproject/notation) - A CLI tool to sign and verify artifacts
