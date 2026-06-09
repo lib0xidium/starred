@@ -159,6 +159,7 @@
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
+- [shell](#shell)
 - [solidity](#solidity)
 - [spring](#spring)
 - [spring-boot](#spring-boot)
@@ -199,6 +200,7 @@
 
 ## agents 
 
+- [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 - [dreadnode/capabilities](https://github.com/dreadnode/capabilities) - Public source of the Dreadnode capabilities in app.dreadnode.io — agents, tools, skills, MCP   servers, and workers.
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
@@ -223,7 +225,7 @@
 - [konflux-ci/konflux-ci](https://github.com/konflux-ci/konflux-ci) - Trusted builds made easy! A cloud-native software factory for building, testing, and releasing trusted software artifacts
 - [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
@@ -257,7 +259,7 @@
 - [dreadnode/capabilities](https://github.com/dreadnode/capabilities) - Public source of the Dreadnode capabilities in app.dreadnode.io — agents, tools, skills, MCP   servers, and workers.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -377,6 +379,7 @@
 
 ## azure 
 
+- [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud) - An encyclopedia for offensive and defensive security knowledge in cloud native technologies.
@@ -438,7 +441,7 @@
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -463,6 +466,7 @@
 
 ## cli 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [hermetoproject/hermeto](https://github.com/hermetoproject/hermeto) - Hermeto is a CLI tool that prefetches project dependencies for hermetic container builds.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1135,6 +1139,7 @@
 
 ## mcp 
 
+- [microsoft/skills](https://github.com/microsoft/skills) - Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents
 - [dreadnode/capabilities](https://github.com/dreadnode/capabilities) - Public source of the Dreadnode capabilities in app.dreadnode.io — agents, tools, skills, MCP   servers, and workers.
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
@@ -1239,7 +1244,7 @@
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -1262,6 +1267,7 @@
 
 ## others 
 
+- [openvex/go-vex](https://github.com/openvex/go-vex) - Go module to generate and transform VEX documents
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [konflux-ci/docs](https://github.com/konflux-ci/docs) - This repository is the official source of record for upstream Konflux documentation.
 - [konflux-ci/konflux-test](https://github.com/konflux-ci/konflux-test) - Konflux-test repository
@@ -1535,6 +1541,7 @@
 
 ## rust 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1562,6 +1569,8 @@
 
 ## security 
 
+- [mindersec/minder](https://github.com/mindersec/minder) - Software Supply Chain Security Platform
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [dreadnode/capabilities](https://github.com/dreadnode/capabilities) - Public source of the Dreadnode capabilities in app.dreadnode.io — agents, tools, skills, MCP   servers, and workers.
 - [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
@@ -1635,6 +1644,7 @@
 
 ## security-tools 
 
+- [bomctl/bomctl](https://github.com/bomctl/bomctl) - Format agnostic SBOM tooling
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [securego/gosec](https://github.com/securego/gosec) - Go security checker
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
@@ -1672,6 +1682,10 @@
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [sottlmarek/DevSecOps](https://github.com/sottlmarek/DevSecOps) - Ultimate DevSecOps library
+
+## shell 
+
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 
 ## solidity 
 
@@ -1719,6 +1733,7 @@
 
 ## terminal 
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Terminal security for developers and AI agents. Intercepts homograph URLs, pipe-to-shell, ANSI injection, obfuscated payloads, data exfiltration, and malicious AI skills/configs before they execute.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 ## terraform 
@@ -1747,7 +1762,7 @@
 
 ## tui 
 
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
@@ -1760,7 +1775,7 @@
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [Storybloq/storybloq](https://github.com/Storybloq/storybloq) - Cross-session context for Claude Code. CLI + MCP server + /story skill that tracks tickets, issues, handovers, and roadmap in a .story/ directory.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 local-first and microVM-backed programmable sandboxes for AI agents
