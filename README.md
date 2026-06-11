@@ -94,6 +94,7 @@
 
 ## Go 
 
+- [openai/vetu](https://github.com/openai/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [bomctl/bomctl](https://github.com/bomctl/bomctl) - Format agnostic SBOM tooling
 - [mindersec/minder](https://github.com/mindersec/minder) - Software Supply Chain Security Platform
@@ -327,6 +328,7 @@
 
 ## Python 
 
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [Trusted-AI/adversarial-robustness-toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox) - Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams
 - [google/skills](https://github.com/google/skills) - Agent Skills for Google products and technologies
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
@@ -435,7 +437,7 @@
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microvms for untrusted workloads. use as dev container, ai agent sandbox,  ci/cd, and more.
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, local microVMs for untrusted workloads
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Ledger-Donjon/zorya](https://github.com/Ledger-Donjon/zorya) - Zorya: Automated Concolic Execution Engine optimized for Go Binaries analysis, using Ghidra's P-Code as IR, and written in Rust.
@@ -478,6 +480,7 @@
 
 ## Swift 
 
+- [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
 
 ## TypeScript 
