@@ -1298,6 +1298,7 @@
 
 ## others 
 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [apisec-inc/apisec-skills](https://github.com/apisec-inc/apisec-skills) - API security skills and rules for Cursor, Claude Code, Copilot, and all major AI coding agents. OWASP API Top 10 coverage — zero configuration.
 - [openai/vetu](https://github.com/openai/vetu) - Create, publish and virtualize ephemeral Linux VMs with ease
 - [getsentry/skills](https://github.com/getsentry/skills) - Agent Skills used by the Sentry team for development.
