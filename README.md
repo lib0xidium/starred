@@ -203,6 +203,7 @@
 
 ## HTML 
 
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [trickest/cve](https://github.com/trickest/cve) - Gather and update all available and newest CVEs with their PoC.
 - [RedHatProductSecurity/aegis-ai](https://github.com/RedHatProductSecurity/aegis-ai) - genAI agent providing security context, tooling for performing security analysis on CVE, components and more
 - [toddward/the-learning-skill](https://github.com/toddward/the-learning-skill) - 
@@ -338,6 +339,8 @@
 
 ## Python 
 
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) - The memory harness for proactive AI agents — structured storage, intent capture, 10x token reduction.
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [OWASP/pytm](https://github.com/OWASP/pytm) - A Pythonic framework for threat modeling
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
 - [HeadyZhang/agent-audit](https://github.com/HeadyZhang/agent-audit) - Static security scanner for LLM agents — prompt injection, MCP config auditing, taint analysis. 51 rules mapped to OWASP Agentic Top 10 (2026). Works with LangChain, CrewAI, AutoGen.
@@ -501,6 +504,8 @@
 
 ## TypeScript 
 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [onecli/onecli](https://github.com/onecli/onecli) - Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys.
