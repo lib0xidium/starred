@@ -1454,9 +1454,10 @@
 
 ## others 
 
+- [packit/ai-workflows](https://github.com/packit/ai-workflows) - 
 - [SunWeb3Sec/DeFiHackLabs-Incident-Explorer](https://github.com/SunWeb3Sec/DeFiHackLabs-Incident-Explorer) - DeFiHackLabs Incident Explorer
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent wikis for codebases or purpose memory.
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
 - [StacklokLabs/osv-mcp](https://github.com/StacklokLabs/osv-mcp) - An MCP server for OSV
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [18F/development-guide](https://github.com/18F/development-guide) - A set of guidelines and best practices for an awesome software engineering team
@@ -1654,6 +1655,7 @@
 
 ## python 
 
+- [chrisguidry/docket](https://github.com/chrisguidry/docket) - docket is a distributed background task system for Python
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
