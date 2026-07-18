@@ -46,6 +46,7 @@
 - [cpp](#cpp)
 - [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -666,6 +667,10 @@
 ## cryptocurrency 
 
 - [Cyfrin/security-and-auditing-full-course-s23](https://github.com/Cyfrin/security-and-auditing-full-course-s23) - The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.
+
+## cryptography 
+
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 
 ## csharp 
 
@@ -1473,6 +1478,7 @@
 
 ## others 
 
+- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz) - Fuzzy String Matching in Python
 - [npmgraph/npmgraph](https://github.com/npmgraph/npmgraph) - A tool for exploring NPM modules and dependencies
 - [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 - [packit/ai-workflows](https://github.com/packit/ai-workflows) - 
@@ -1489,7 +1495,7 @@
 - [hackerschoice/thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet) - Various tips & tricks
 - [hackerschoice/bincrypter](https://github.com/hackerschoice/bincrypter) - Pack/Encrypt/Obfuscate ELF + SHELL scripts
 - [thedeveloper-ctl/vuln-verification-skill](https://github.com/thedeveloper-ctl/vuln-verification-skill) - Cursor Agent Skill for sandboxed vulnerability verification using Claude Code + Kaiden. Two-phase sandbox prevents prompt injection from tickets and source code.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [kenn-io/roborev](https://github.com/kenn-io/roborev) - Continuous background code review database for agents, work faster and smarter with accountability for every line of generated code.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -1678,6 +1684,7 @@
 
 ## python 
 
+- [pyca/cryptography](https://github.com/pyca/cryptography) - cryptography is a package designed to expose cryptographic primitives and recipes to Python developers.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [chrisguidry/docket](https://github.com/chrisguidry/docket) - docket is a distributed background task system for Python
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
