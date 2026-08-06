@@ -202,6 +202,7 @@
 
 ## agent 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
@@ -232,6 +233,7 @@
 
 ## agents 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
@@ -262,6 +264,7 @@
 
 ## ai 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [redhat-community-ai-tools/code-to-docs](https://github.com/redhat-community-ai-tools/code-to-docs) - GitHub Action that uses AI to keep docs in sync with code - analyzes PR diffs, identifies affected documentation, and generates updates through an interactive review workflow. Supports spec-vs-code ga
 - [mnemosyne-oss/mnemosyne](https://github.com/mnemosyne-oss/mnemosyne) - Zero-cloud AI memory that works everywhere. SQLite-backed. One pure-Python dependency.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -1258,6 +1261,7 @@
 
 ## llm 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [redhat-community-ai-tools/code-to-docs](https://github.com/redhat-community-ai-tools/code-to-docs) - GitHub Action that uses AI to keep docs in sync with code - analyzes PR diffs, identifies affected documentation, and generates updates through an interactive review workflow. Supports spec-vs-code ga
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1469,6 +1473,7 @@
 
 ## openai 
 
+- [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [Repello-AI/Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz) - A CLI tool for threat modeling and visualizing AI agents built using popular frameworks like LangGraph, AutoGen, CrewAI, and more.
@@ -1498,6 +1503,7 @@
 
 ## others 
 
+- [complytime/complyctl](https://github.com/complytime/complyctl) - A command-line tool for streamlining end-to-end compliance workflows on local systems.
 - [enisaeu/enisa-sbd-playbook](https://github.com/enisaeu/enisa-sbd-playbook) - A practical collection of Secure by Design and Secure by Default playbooks for SMEs, based on the ENISA Secure by Design and Default Playbook.
 - [conforma/policy](https://github.com/conforma/policy) - OPA/Rego policies for use with Conforma
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
