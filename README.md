@@ -1526,6 +1526,8 @@
 
 ## others 
 
+- [alchaincyf/harness-engineering-orange-book](https://github.com/alchaincyf/harness-engineering-orange-book) - Harness Engineering · 橙皮书系列 · AI Agent 缰绳工程学实战指南
+- [flightctl/ai-workflows](https://github.com/flightctl/ai-workflows) - Reusable AI workflows a team member can install globally or per-project, in any environment: Cursor, Claude Code and others.
 - [ml-explore/mlx](https://github.com/ml-explore/mlx) - MLX: An array framework for Apple silicon
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
